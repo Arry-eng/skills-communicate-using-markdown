@@ -17,3 +17,10 @@ This is normal text
 
 This is how an inmage with an alt-text is added in a markdown page.
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+# <h3> This is how a code block is created </h3>
+#
+``` javascript
+var myVar = "Hello, world!";
+```
+End  of Code
