@@ -14,3 +14,6 @@ This is normal text
 This is normal text
 # <h8> This is H8 header
 This is normal text
+
+This is how an inmage with an alt-text is added in a markdown page.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
