@@ -23,4 +23,9 @@ This is how an inmage with an alt-text is added in a markdown page.
 ``` javascript
 var myVar = "Hello, world!";
 ```
-End  of Code
+# <h4>End  of Code
+# <h3>Create a task list. Remember, a task list starts with the syntax - [ ] and then the task list item. The formatting is specific!</h3>
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+# <h4> End of task list
